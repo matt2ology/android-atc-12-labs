@@ -7,8 +7,8 @@ This book is required as "ramp" material for the CSUS's CSC 196P:
 Cloud and Mobile Applications (iOS, Android, and IoT)
 
 A subpar independent, not affiliated with Google, accreditation company that
-publishes a PDF "e-book" accessible solely through their login portal,
-featuring a rudimentary web PDF viewer. The e-book exhibits numerous spelling,
+publishes a PDF "e-book". This PDF is accessible solely through their login portal
+and features a rudimentary web PDF viewer. The e-book exhibits numerous spelling,
 grammar, and code sample inconsistencies and errors.
 
 Equally important, the PDF viewer lacks any distinguishing features or
